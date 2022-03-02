@@ -21,7 +21,11 @@ struct ContentView: View {
                 
                 Text("Fresh Milk On Demand")
                 
+                Image("milk")
+                    .aspectRatio(contentMode: /*@START_MENU_TOKEN@*/.fill/*@END_MENU_TOKEN@*/)
                 
+                Text("Milk Splash")
+                    
                 
             }
             
