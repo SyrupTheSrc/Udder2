@@ -34,6 +34,8 @@ struct ContentView: View {
                 }
                 
                 Text("View Might Dissapear")
+                
+                Text("Pre Pull, This Version has no readme")
                     
                 
             }
