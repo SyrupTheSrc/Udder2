@@ -36,6 +36,8 @@ struct ContentView: View {
                 Text("View Might Dissapear")
                 
                 Text("Pre Pull, This Version has no readme")
+                
+                Text("Read me was succesfully pulled. Time to push")
                     
                 
             }
